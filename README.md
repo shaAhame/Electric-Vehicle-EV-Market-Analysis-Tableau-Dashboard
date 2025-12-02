@@ -53,12 +53,11 @@ This is designed for analysts, stakeholders, or decision-makers to quickly under
 
 ## 📬 Contact / Credits
 
-**Shakeeb Ahamed**
-AI Developer Intern
-B.Sc (Hons) Financial Mathematics and Industrial Statistics – University of Ruhuna, Sri Lanka
-Advanced Diploma in Data Science – NIBM, Sri Lanka
-GitHub: [https://github.com/shaAhame](https://github.com/shaAhame)
-
+**Shakeeb Ahamed**  
+**AI Developer Intern**  
+**B.Sc (Hons) Financial Mathematics and Industrial Statistics – University of Ruhuna, Sri Lanka**  
+**Advanced Diploma in Data Science – NIBM, Sri Lanka**  
+**GitHub:** https://github.com/shaAhame
 ---
 
 If you like, I can also add:
